@@ -1,0 +1,11 @@
+silver:~/workspace/site (master) $ touch index.html
+silver:~/workspace/site (master) $ git status
+on branch master
+your branch is up-to-date with 'origin/master'
+
+untracked files:
+  (use "gitadd <file>..."to include in what will be committed)
+        index.htmal
+ 
+ nothhing added to commit but untracked files present (use "git add" to tack)
+ silver:~/workspace/site (master) $
